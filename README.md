@@ -20,7 +20,7 @@ Fast, unopinionated, minimalist web framework for Node.js. xpress is a minimal a
 Now lets start our Express Handlebars project 
 
 ```
-git clone https://github.com/suwigyarathore/Express-Handlebars.git
+git clone https://github.com/codediggeracademy/Express-Handlebars.git
 cd <cloned directory name>
 npm install
 npm start
